@@ -37,5 +37,4 @@ public class BaseTest {
     public void trDown() {
         driver.quit(); // Закрытие браузера
     }
-
 }
